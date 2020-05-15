@@ -10,7 +10,7 @@
 
 ### :information_source: Instruções Back-end
 
-Para clonar esse app voce precisa [Git](https://git-scm.com),  Para ele poder funcionar precisa de um banco [PostgreSQL](https://www.postgresql.org/) instalado e rodando na maquina <details><summary>podendo utilizar o [Docker](https://www.docker.com/).</summary>
+Para clonar esse app voce precisa [Git](https://git-scm.com),  Para ele poder funcionar precisa de um banco [PostgreSQL](https://www.postgresql.org/) instalado e rodando na imagem via Docker  <details><summary>podendo utilizar o [Docker](https://www.docker.com/).</summary>
 ```bash
 
 # instalar PostgreSQL
